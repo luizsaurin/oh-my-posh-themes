@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Oh My Posh Themes</strong></h1>
 
-Repository with themes to use with the [Oh My Posh prompt engine](). Some themes are original, others adapted from [existing themes]().
+Repository with themes to use with the [Oh My Posh prompt engine](https://ohmyposh.dev/). Some themes are original, others adapted from [existing themes](https://ohmyposh.dev/docs/themes).
 
 #### Recommended fonts
 
