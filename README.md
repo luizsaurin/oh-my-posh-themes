@@ -10,6 +10,12 @@ Repository with themes to use with the [Oh My Posh prompt engine](https://ohmypo
 
 ## Themes
 
+### [dracula-minimalistic](./themes/dracula-minimalistic.omp.json)
+
+<div align="left">
+	<img src="./img/dracula-minimalistict.png">
+</div>
+
 ### [midnight-cat](./themes/midnight-cat.omp.json)
 
 <div align="left">

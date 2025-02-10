@@ -40,7 +40,7 @@
       "alignment": "left",
       "segments": [
         {
-          "template": ">",
+          "template": "›",
           "foreground": "#d1d1d1",
           "type": "text",
           "style": "plain"
