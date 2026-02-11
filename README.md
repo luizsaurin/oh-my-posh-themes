@@ -21,3 +21,9 @@ Repository with themes to use with the [Oh My Posh prompt engine](https://ohmypo
 <div align="left">
 	<img src="./img/midnight-cat.png">
 </div>
+
+### [monokai-owl](./themes/monokai-owl.omp.json)
+
+<div align="left">
+	<img src="./img/monokai-owl.png">
+</div>
